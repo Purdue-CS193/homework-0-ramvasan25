@@ -6,16 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 This is a test from the instructions of Step 5 of homework 0
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-```
+### Markdown Test
 
 # Ramya Srinivasan's First CS193 Homework
-## Header 2
+## Major: Data Science 
 ### Favorite things about CS 193 
 - Taught by TA's
 - No quizzes/tests
