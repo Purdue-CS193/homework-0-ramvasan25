@@ -11,10 +11,10 @@ This is a test from the instructions of Step 5 of homework 0
 # Ramya Srinivasan's First CS193 Homework
 ## Major: Data Science 
 ### Favorite things about CS 193 
-- Taught by TA's
-- No quizzes/tests
+- Class is taught by TA's
+- There are no quizzes/tests in this course 
 - The content focuses on tools and ideas that will be useful in the workforce 
-
+- I enjoy learning in a collaborative environment of many students in CS 19300
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
